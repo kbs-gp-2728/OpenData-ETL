@@ -2,7 +2,6 @@
 
 **Grupo de Investigación KBS · UTPL**
 
-> **Supuesto de calendario:** la semana 5 corresponde al 2 al 8 de noviembre de 2026 y se cuenta de forma continua. Con ese conteo la semana 14 sería del 4 al 10 de enero. Las semanas 12 y 13 coinciden con las fiestas de fin de año, por lo que se planifican con carga ligera. Si el calendario académico oficial desplaza la semana 14 (por ejemplo, al 11-20 de enero), basta con correr las fechas; el orden de las actividades no cambia.
 
 ## Resumen por fases
 
