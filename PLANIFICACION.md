@@ -63,20 +63,3 @@
 | Jorge Guerrero | Transformación y validación con Base de datos y persistencia |
 | Kenny Paredes | API y tablero |
 
-## Estructura sugerida del repositorio
-
-```
-opendata-etl/
-├── README.md
-├── PLANIFICACION.md
-├── docs/            # catálogo de fuentes, reglas, informe
-├── data/raw/        # archivos descargados (ignorados en git si son grandes)
-├── src/
-│   ├── extract/
-│   ├── transform/
-│   ├── load/
-│   ├── api/
-│   └── dashboard/
-├── sql/             # esquema
-└── tests/
-```
