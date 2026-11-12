@@ -55,14 +55,13 @@
 | Retrasos por fiestas de fin de año | Dejar API y tablero cerrados con prioridad antes de la semana 12; semanas 12-13 son de bajo riesgo |
 | Falta de tiempo para APIs como fuente | Es opcional; solo se aborda si hay holgura en la semana 14 |
 
-## Roles (completar)
+## Roles 
 
 | Integrante | Rol principal |
 |------------|---------------|
-| _por definir_ | Extracción y fuentes |
-| _por definir_ | Transformación y validación |
-| _por definir_ | Base de datos y persistencia |
-| _por definir_ | API y tablero |
+| Andrés Vallejo | Extracción y fuentes |
+| Jorge Guerrero | Transformación y validación con Base de datos y persistencia |
+| Kenny Paredes | API y tablero |
 
 ## Estructura sugerida del repositorio
 
